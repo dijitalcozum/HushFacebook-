@@ -892,12 +892,13 @@ group = "app.morphe"
 
 patches {
     about {
-        name = "Hushfacebook"
-        description = "Hushfacebook patches for the Facebook app, built for Morphe. Sponsored posts, Reels, Stories and suggested clutter out of your feed, and more control over what Facebook shows you."
-        source = "https://github.com/SysAdminDoc/Hushfacebook"
-        author = "SysAdminDoc"
-        contact = "https://github.com/SysAdminDoc/Hushfacebook/issues"
-        website = "https://github.com/SysAdminDoc/Hushfacebook"
+        
+        name = "Dijitalcozum HushFacebook"
+        description = "Community-maintained Facebook patches for Morphe."
+        source = "https://github.com/dijitalcozum/HushFacebook-"
+        author = "dijitalcozum (based on Hushfacebook by SysAdminDoc)"
+        contact = "https://github.com/dijitalcozum/HushFacebook-/issues"
+        website = "https://github.com/dijitalcozum/HushFacebook-"
         license = "GNU General Public License v3.0, with additional GPL section 7 requirements"
     }
 }
